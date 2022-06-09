@@ -1,9 +1,8 @@
-# ChatBot
-يحتوي على واجهة تتكون من واجهتان للتحكم بالاذرع وللتحكم بالقاعدة وكذلك أضفت عليه كود الشات بوت | index.html , index.php
+# ChatBotIt contains an interface consisting of two interfaces to control the arms and to control the base, as well as the chatbot code | index.html, index.php
 -----------------------------------------------------------------------------------------------------------------------------
-الشات بوت يحتوي على نبذه عن الروبوت + نبذه عن شركة الأساليب الذكية + شرح لواجهة التحكم بالاذرع وواجهة التحكم بالقاعدة 
+The chatbot contains an overview of the robot + an overview of the Smart Ways Company + an explanation of the control interface of the arms and the interface of the base control 
 -------------------------
-أجزاء الشات بوت
+Chatbot parts:
 
 * Welcome
 * greeting
